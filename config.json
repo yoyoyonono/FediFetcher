@@ -1,0 +1,11 @@
+{
+  "server": "m.ggrks.moe",
+  "home-timeline-length": 200,
+  "max-bookmarks": 80,
+  "max-favourites": 40,
+  "max-followings": 80,
+  "max-followers": 80,
+  "max-follow-requests": 80,
+  "from-notifications": 1,
+  "reply-interval-in-hours": 1
+}
